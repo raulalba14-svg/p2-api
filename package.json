@@ -16,7 +16,11 @@
     "@fastify/cors": "^11.1.0",
     "@fastify/swagger": "^9.5.1",
     "@fastify/swagger-ui": "^5.2.3",
+    "@prisma/client": "^6.16.2",
     "fastify": "^5.6.0",
     "zod": "^4.1.9"
+  },
+  "devDependencies": {
+    "prisma": "^6.16.2"
   }
 }
